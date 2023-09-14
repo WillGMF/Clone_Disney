@@ -1,12 +1,28 @@
 {
+  
   "devDependencies": {
-    "gulp": "^4.0.2",
-    "gulp-imagemin": "^7.1.0",
-    "gulp-sass": "^5.1.0",
-    "sass": "^1.66.1"
+  
+    
+  "gulp": "^4.0.2",
+  
+    
+  "gulp-imagemin": "^7.1.0",
+  
+    
+  "gulp-sass": "^5.1.0",
+  
+    
+  "sass": "^1.66.1"
+  
   },
+  
   "scripts": {
-    "build": "gulp",
-    "dev": "gulp watch"
+  
+    
+  "build": "gulp",
+  
+    
+  "dev": "gulp watch"
+  
   }
 }
